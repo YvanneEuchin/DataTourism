@@ -1,0 +1,10 @@
+body {
+    color: #57565B;
+    background-color: #F7F9F9;
+}
+
+section[data-testid="stSidebar"] > div {
+    background-color: #A11F40;
+    background-image: none;
+    font-color: #FFFFFF;
+}
